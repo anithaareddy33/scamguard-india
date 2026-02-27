@@ -1,10 +1,10 @@
-# 🛡️ ScamGuard India – AI Powered Scam Detection System
+# 🛡️ ScamShield India – AI Powered Scam Detection System
 
 ![AI Powered](https://img.shields.io/badge/AI-ML_Powered-green)
 ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-Google_Safe_Browsing-blue)
 ![Backend](https://img.shields.io/badge/Backend-FastAPI_+_Express-orange)
 
-ScamGuard India is a full-stack AI-powered scam detection system designed to detect UPI fraud, OTP scams, delivery phishing, KYC fraud, and malicious URLs using a hybrid Machine Learning + Rule-Based + Threat Intelligence approach.
+ScamShield India is a full-stack AI-powered scam detection system designed to detect UPI fraud, OTP scams, delivery phishing, KYC fraud, and malicious URLs using a hybrid Machine Learning + Rule-Based + Threat Intelligence approach.
 
 ---
 
@@ -39,7 +39,7 @@ FastAPI ML Service (Scikit-learn Model)
 
 ## 🧠 Detection Strategy
 
-ScamGuard uses a **hybrid layered detection system** to improve accuracy and reduce false positives.
+ScamShield uses a **hybrid layered detection system** to improve accuracy and reduce false positives.
 
 ### 1️⃣ Machine Learning Layer
 - TF-IDF Vectorization
